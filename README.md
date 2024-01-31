@@ -1,6 +1,6 @@
 # PR Reviewer
 
-PR Reviewer is a Ruby script that analyzes a pull request and generates comments for the pull request using the OpenAI API. By default, it used OpenAI's `gpt-4` model.
+PR Reviewer is a Ruby script that analyzes a pull request and generates comments for the pull request using the OpenAI API. By default, it uses OpenAI's `gpt-4` model.
 
 ## Prerequisites
 
